@@ -61,6 +61,11 @@
     background: rgb(78, 78, 209);
     color: #fff;
     text-align: center;
+    padding: 55px 0;
+}
+
+.service-txt {
+    margin-bottom: 40px;
 }
 
 .service-menu {
